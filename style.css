@@ -8,6 +8,7 @@ body {
     line-height: 1.6;
     scroll-behavior: smooth;
     list-style: none;
+    background-size: 30px 30px;
 }
 h1, h2, h3, p {
     margin: 0;
