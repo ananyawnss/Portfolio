@@ -33,6 +33,7 @@ p  {    font-size:15px;}
  .container {
     max-width: 500px;
     margin: auto;
+    padding:40px;
 }
 img {
     width: 65px;
