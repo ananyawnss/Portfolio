@@ -203,18 +203,18 @@ body::before {
     transform:translateY(-6px);
     box-shadow:0 14px 28px rgba(0,0,0,.12);
 }
-.project-card h7{
+.project-card h1{
     margin-top:0;
     font-size:28px;
 }
-.project-card h8{
-    color:#666;
+.project-card h2{
+    color:black;
     line-height:1.6;
 }
 .project-card a{
     display:inline-block;
     margin-top:15px;
     text-decoration:none;
-    color:#5b3df5;
+    color:darkgray;
     font-weight:bold;
 }
