@@ -122,7 +122,7 @@ img {
     margin-bottom: 0;
 }
 
-.navbar{
+/*.navbar{
     position: fixed;
     bottom: 25px;
     top:20px;
@@ -140,7 +140,21 @@ img {
     box-shadow:0 4px 12px rgba(0,0,0,.12);
     z-index:1000;
 }
-
+*/
+.navbar{
+    position: fixed;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 18px;
+    padding: 12px 20px;
+    background: rgba(255,255,255,0.92);
+    border-radius: 50px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    backdrop-filter: blur(12px);
+    z-index: 999;
+}
 .navbar a{
     width:40px;
     height:40px;
