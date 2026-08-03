@@ -158,6 +158,13 @@ img {
     transform:translateY(-2px);
     color:#d63384;
 }
+@media (max-width:768px){
+.navbar{
+    bottom:15px;
+    padding:10px 16px;
+    gap:12px;
+}
+}
 
 body::before {
     content: "";
