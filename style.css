@@ -199,60 +199,6 @@ body::before {
     }
 }
 
-.education-card{
-    background:white;
-    border-radius:18px;
-    padding:24px;
-    margin-bottom:25px;
-    box-shadow:0 8px 18px rgba(0,0,0,.08);
-    transition:0.3s;
-}
-.education-card:hover{
-    transform:translateY(-6px);
-    box-shadow:0 14px 28px rgba(0,0,0,.12);
-}
-.education-card h1{
-    margin-top:0;
-    font-size:28px;
-}
-.education-card h2{
-    color:black;
-    line-height:1.6;
-}
-.education-card a{
-    display:inline-block;
-    margin-top:15px;
-    text-decoration:none;
-    color:darkgray;
-    font-weight:bold;
-}
-.internship-card{
-    background:white;
-    border-radius:18px;
-    padding:24px;
-    margin-bottom:25px;
-    box-shadow:0 8px 18px rgba(0,0,0,.08);
-    transition:0.3s;
-}
-.internship-card:hover{
-    transform:translateY(-6px);
-    box-shadow:0 14px 28px rgba(0,0,0,.12);
-}
-.internship-card h1{
-    margin-top:0;
-    font-size:28px;
-}
-.internship-card h2{
-    color:black;
-    line-height:1.6;
-}
-.internship-card a{
-    display:inline-block;
-    margin-top:15px;
-    text-decoration:none;
-    color:darkgray;
-    font-weight:bold;
-}
 .project-card{
     background:white;
     border-radius:18px;
