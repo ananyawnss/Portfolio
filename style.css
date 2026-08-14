@@ -315,47 +315,4 @@ h1 {
     }
 
 }
-@media (max-width: 600px) {
 
-    body {
-        padding-left: 18px;
-        padding-right: 18px;
-    }
-
-    h1 {
-        font-size: 42px;
-        line-height: 1.1;
-        margin-bottom: 10px;
-    }
-
-}
-@media (max-width: 600px) {
-
-    .internship-card {
-        grid-template-columns: 55px 1fr;
-        padding: 25px 28px;
-        gap: 18px;
-    }
-
-    .internship-card img {
-        width: 45px;
-        height: 45px;
-    }
-
-    .experience-info h6 {
-        font-size: 18px;
-        line-height: 1.5;
-    }
-
-    .experience-info p {
-        font-size: 15px;
-        line-height: 1.5;
-    }
-
-    .internship-card .date {
-        grid-column: 2;
-        font-size: 15px;
-        margin-top: 5px;
-    }
-
-}
