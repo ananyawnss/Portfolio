@@ -227,7 +227,7 @@ body::before {
 }
 h1 {
     font-size: 38px;
-    white-space: nowrap;
+   /* white-space: nowrap; */
 }
 @media (max-width: 600px) {
 
