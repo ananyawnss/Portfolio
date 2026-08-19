@@ -145,7 +145,7 @@ img {
 
 .navbar a:hover{
     background:#f3d9f7;
-    transform:translateY(-2px);
+    transform:translateY(-6px); /*Change 1*/
     color:#d63384;
 }
 
