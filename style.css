@@ -188,6 +188,7 @@ body::before {
     .internship-card img{
         width:40px;
         height:40px;
+        box-shadow:0 8px 18px rgba(0,0,0,.08); /*Change 2*/
     }
 }
 @media (max-width:768px){
